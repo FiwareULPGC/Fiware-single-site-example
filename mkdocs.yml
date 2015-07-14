@@ -1,0 +1,4 @@
+site_name: Demo single site
+
+pages:
+- Home: 'index.md'
